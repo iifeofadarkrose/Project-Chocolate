@@ -1,11 +1,11 @@
 {
-  "name": "Project-Chocolate",
+  "name": "ProjectChocolate",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Project-Chocolate/",
+    "build": "vite build --base=/ProjectChocolate/",
     "preview": "vite preview"
   },
   "devDependencies": {
